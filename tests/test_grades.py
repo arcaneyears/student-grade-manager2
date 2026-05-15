@@ -4,6 +4,7 @@ from models.grade import Grade
 from services.grade_service import GradeService
 
 class TestGradeService(unittest.TestCase):
+
     def setUp(self):
         self.service = GradeService()
         s = Student("Alice", 1)

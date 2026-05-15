@@ -6,6 +6,7 @@ from utils.report_generator import generate_summary, print_top_students
 def main():
     service = GradeService()
     records = load_from_csv("data/grades.csv")
+
     for row in records:
         sid = int(row['student_id'])
         student = Student(row['name'], sid)
