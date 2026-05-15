@@ -28,5 +28,5 @@ def main():
         elif choice == '4':
             break
 
-if name == '__main__':
+if __name__ == '__main__':
     main()
