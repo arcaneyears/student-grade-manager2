@@ -1,0 +1,13 @@
+student_id,name,course,grade
+1,John,Math,85
+1,John,Physics,78
+1,John,English,91
+2,Alice,Math,95
+2,Alice,Physics,90
+2,Alice,English,88
+3,Bob,Math,72
+3,Bob,Physics,65
+3,Bob,English,70
+4,Sara,Math,60
+4,Sara,Physics,55
+4,Sara,English,63
