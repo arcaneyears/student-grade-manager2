@@ -1,13 +1,21 @@
 student_id,name,course,grade
-1,John,Math,85
-1,John,Physics,78
-1,John,English,91
-2,Alice,Math,95
-2,Alice,Physics,90
-2,Alice,English,88
-3,Bob,Math,72
-3,Bob,Physics,65
-3,Bob,English,70
-4,Sara,Math,60
-4,Sara,Physics,55
-4,Sara,English,64
+1,Ramazan Sagyngali,Object Oriented Programming,84
+2,Aruzhan Kairatkyzy,Introduction to Programming,93
+3,Nursultan Duisenbekov,Database Management Systems,71
+4,Kamila Serikkizi,Algorithms and Data Structures,88
+5,Alikhan Omarov,Calculus,65
+6,Madina Yermekkyzy,Linear Algebra,97
+7,Temirlan Bekzatuly,History of Kazakhstan,76
+8,Dias Nurlanov,Physical Education,100
+9,Aigerim Tolegenkyzy,Object Oriented Programming,91
+10,Miras Zhaksylykov,Introduction to Programming,58
+11,Dana Askarova,Database Management Systems,82
+12,Arman Seitov,Algorithms and Data Structures,74
+13,Zhansaya Mukhtarova,Calculus,95
+14,Islam Erbolatuly,Linear Algebra,69
+15,Adilet Saparbek,Object Oriented Programming,87
+16,Alina Rysbekkyzy,History of Kazakhstan,92
+17,Yerkebulan Tursynov,Physical Education,79
+18,Tomiris Abilkassymova,Database Management Systems,98
+19,Sanzhar Akhmetov,Calculus,61
+20,Ayaulym Maratkyzy,Algorithms and Data Structures,86
